@@ -35,3 +35,5 @@ We require below software prerequisites.
  9) Search atm by enter city name. (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-atm.JPG)
  
  10) Search atm result (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-atm-search.JPG)
+ 
+ 11) if you are login as normal user and hit `http://localhost:8080/user/list` url then you get `unauthorized` page (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-anauthorized.JPG)

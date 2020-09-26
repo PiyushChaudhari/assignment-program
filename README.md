@@ -31,3 +31,7 @@ We require below software prerequisites.
           Password: 111111
  
  8) Login page (https://github.com/PiyushChaudhari/assignment-program/blob/master/login-page.JPG)
+ 
+ 9) Search atm by enter city name. (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-atm.JPG)
+ 
+ 10) Search atm result (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-atm-search.JPG)

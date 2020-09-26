@@ -6,3 +6,27 @@ We require below software prerequisites.
 1) JDK Install (1.8.0_91)
 2) STS (Spring Tool Suite) 3.9.0.RELEASE
 3) Gradle Version 4.6
+
+
+# Step to run application.
+
+1) Checkout the code.
+2) Go to project directory.
+3) Create war file using command `gradle clean build -x test`.
+4) Go to `project directory > build > lib` directory where `assignment-program-0.0.1-SNAPSHOT.war` file available.
+5) Run `java -jar assignment-program-0.0.1-SNAPSHOT.war` command.
+6) Run url `http://localhost:8080/`
+7) There are two type of user available.
+
+   Normal User:
+   
+          Email: user@gmail.com
+          
+          Password: 000000
+          
+   Admin User:
+   
+          Email: admin@gmail.com
+          
+          Password: 111111
+          

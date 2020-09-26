@@ -8,7 +8,7 @@ We require below software prerequisites.
 3) Gradle Version 4.6
 
 
-# Step to run application.
+# Step to run application Spring-Boot application.
 
 1) Checkout the code.
 2) Go to project directory.

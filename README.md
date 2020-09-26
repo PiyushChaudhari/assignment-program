@@ -36,4 +36,6 @@ We require below software prerequisites.
  
  10) Search atm result (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-atm-search.JPG)
  
- 11) if you are login as normal user and hit `http://localhost:8080/user/list` url then you get `unauthorized` page (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-anauthorized.JPG)
+ 11) if you are login as normal user using `user@gmail.com` and hit `http://localhost:8080/user/list` url then you get `unauthorized` page (https://github.com/PiyushChaudhari/assignment-program/blob/master/locator-anauthorized.JPG)
+ 
+ 12) if you are login as normal user using `admin@gmail.com` and hit `http://localhost:8080/user/list` url then you get (https://github.com/PiyushChaudhari/assignment-program/blob/master/user-list.JPG)

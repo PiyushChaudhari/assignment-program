@@ -16,7 +16,7 @@ We require below software prerequisites.
 4) Go to `project directory > build > lib` directory where `assignment-program-0.0.1-SNAPSHOT.war` file available.
 5) Run `java -jar assignment-program-0.0.1-SNAPSHOT.war` command.
 6) Run url `http://localhost:8080/`
-7) There are two type of user available.
+7) User  user to login on application
 
    Normal User:
    
@@ -29,4 +29,3 @@ We require below software prerequisites.
           Email: admin@gmail.com
           
           Password: 111111
-          

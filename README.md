@@ -29,3 +29,5 @@ We require below software prerequisites.
           Email: admin@gmail.com
           
           Password: 111111
+ 
+ 8) Login page (https://github.com/PiyushChaudhari/assignment-program/blob/master/login-page.JPG)
